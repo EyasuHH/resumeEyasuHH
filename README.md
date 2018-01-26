@@ -3,8 +3,9 @@ EyasuHH
 
 CSC 131 - Computer Software Engineering
 
-
 Status: Junior, 2019
+
+GitHub: EyasuHH
 
 Technical Skills
 ===
