@@ -22,14 +22,16 @@ Projects
 ===
 
 - Hangman Game; in C++
+	- Prompts player to enter guessed letters
 	- Simple Hangman Game with minimal 
 	design
 	- Single cpp file
 - Rock, Paper, Scissors; in Visual Basic
+	- Randomly generates and displays result of 1v1
 	- Object-Oriented program with imported
 	objects 
 	- Project ran on Visual Studio Console
 - Interest Rate Calculator; in Java
-	- Prompts user to enter rate and number
+	- Prompts user to enter rate and number; Returns the Interest Rate
 	- Developed using Android Studio
 	- Project includes java and XML files
