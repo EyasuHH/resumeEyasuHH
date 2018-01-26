@@ -1,7 +1,8 @@
 EyasuHH
-===========
+==========================
 
-##CSC 131 - Computer Software Engineering
+CSC 131 - Computer Software Engineering
+==========
 
 ##Status: Junior, 2019
 
