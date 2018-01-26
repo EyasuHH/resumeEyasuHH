@@ -8,5 +8,7 @@ Status: Junior, 2019
 
 Technical Skills
 ===
-
-* h
+Programming Languages:
+- C/C++ (2 years)
+- Java (basic)
+- Visual Basic (1 year)
