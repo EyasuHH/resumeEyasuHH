@@ -8,7 +8,6 @@ Status: Junior, 2019
 GitHub: EyasuHH
 
 **Technical Skills**
-====
 Programming Languages:
 * C/C++ (2 years)
 * Java (basic)
@@ -19,9 +18,8 @@ Software Tools:
 * Android Studio
 * Eclipse
 
+
 **Projects**
-
-
 * Hangman Game; in C++
 	- Prompts player to enter guessed letters
 	- Simple Hangman Game with minimal 
